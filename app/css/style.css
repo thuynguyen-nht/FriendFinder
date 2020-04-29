@@ -6,3 +6,7 @@ body {
 .jumbotron {
     background-color: rgb(46, 46, 46);
 }
+
+#matchFriend-photo {
+    width: 350px;
+}
